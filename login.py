@@ -1,34 +1,27 @@
 from PySimpleGUI import PySimpleGUI as sg
 
 # Layout do login
-sg.theme('Dark Grey 13') # Reddit
+sg.theme('Dark Grey 13') # or Reddit
 layout = [
-    [sg.Text('Usuário'), sg.Input(key='usuario', size=(20,1))], # linha com campo texto e campo input
-    [sg.Text('Senha  '), sg.Input(key='senha', password_char='*', size=(20,1))],
-    [sg.Checkbox('Salvar o login?')],
-    [sg.Button('Entrar')]
+    [sg.Text('Usuário'), sg.Input(key='usuario', size=(20,1))], # linha 1
+    [sg.Text('Senha  '), sg.Input(key='senha', password_char='*', size=(20,1))], # linha 2
+    [sg.Checkbox('Salvar o login?')], # linha 3
+    [sg.Button('Entrar')] # linha 4
 ]
+
 # Janela do Login
 janela = sg.Window('Login App', layout)
 
-
-
-
-
-# layout do Sistema
+# layout do sistema
 sg.theme('Dark Grey 13') # Reddit
 layout2 = [
     [sg.Text('\n\n')],
     [sg.Text('              Sistema             ')],
     [sg.Text('\n\n')],
 ]
-# Janela do Sistema
+
+# Janela do sistema
 janela2 = sg.Window('Sistema', layout2)
-
-
-
-
-
 
 # Eventos
 while True:
