@@ -46,7 +46,9 @@ while True:
             
             # abrindo janela do sistema
             while True:
-                eventos, valores = janela2.read()
+                janela = janela2
+                janela.refresh()
+                # eventos, valores = janela2.read()
                 if eventos == sg.WIN_CLOSED:
                     break
         
