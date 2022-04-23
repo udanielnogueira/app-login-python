@@ -1,2 +1,2 @@
 # AppLogin.py
-A simple Python login application.
+A simple Python login application using PySimpleGUI.
