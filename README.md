@@ -6,3 +6,7 @@ A simple Python login application using PySimpleGUI.
 
 ### PySimpleGUI Documentation
 https://pysimplegui.readthedocs.io/en/latest/
+
+### Themes
+- Reddit
+- Dark Grey 13
