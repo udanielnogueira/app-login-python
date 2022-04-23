@@ -5,4 +5,4 @@ A simple Python login application using PySimpleGUI.
 ``python -m pip install PySimpleGUI``
 
 ## PySimpleGUI Documentation
-- https://pysimplegui.readthedocs.io/en/latest/
+https://pysimplegui.readthedocs.io/en/latest/
