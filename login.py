@@ -12,7 +12,7 @@ layout = [
 # Janela do Login
 janela = sg.Window('Login App', layout)
 
-# layout do sistema
+# Layout do sistema
 sg.theme('Dark Grey 13') # Reddit
 layout2 = [
     [sg.Text('\n\n')],
