@@ -11,4 +11,4 @@ https://pysimplegui.readthedocs.io/en/latest/
 - Reddit
 - Dark Grey 13
 
-use ``sg.theme_previewer()`` for more
+use ``sg.theme_previewer()`` for themes availables
