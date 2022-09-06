@@ -1,5 +1,6 @@
 # AppLogin.py
-A simple Python login application using PySimpleGUI.
+
+🖥 Aplicação de login em Python usando PySimpleGUI. 
 
 ### PySimpleGUI Installation
 ``python -m pip install PySimpleGUI``
