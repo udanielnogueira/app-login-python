@@ -1,4 +1,4 @@
-# App Login Python
+# app-login-python
 
 Aplicação de login em Python usando PySimpleGUI. 
 
