@@ -1,10 +1,10 @@
 # app-login-python
 
-Aplicação de login em Python usando PySimpleGUI. 
+Aplicação de login em Python usando PySimpleGUI.
 
 ### PySimpleGUI Installation
 
-``python -m pip install PySimpleGUI``
+`python -m pip install PySimpleGUI`
 
 ### PySimpleGUI Documentation
 
@@ -15,4 +15,4 @@ https://pysimplegui.readthedocs.io/en/latest/
 - Reddit
 - Dark Grey 13
 
-use ``sg.theme_previewer()`` for themes availables
+use `sg.theme_previewer()` for themes availables
