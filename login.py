@@ -55,5 +55,5 @@ while True:
 
 """
 debug output
-sg.Print('Erro')
+sg.Print('Error')
 """
